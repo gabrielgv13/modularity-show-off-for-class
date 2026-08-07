@@ -1,8 +1,8 @@
-import interface.ui as ui
+import interface.tela_principal as tela_principal
 
 def main():
-    saldo = 0.0
-    ui.menu_principal(saldo)
+    saldo_inicial = 0.0
+    tela_principal.menu_principal(saldo_inicial)
 
 if __name__ == "__main__":
     main()
