@@ -49,11 +49,9 @@ Na segunda etapa, o mesmo fluxo é reorganizado em módulos:
 ├── main_nao_modular.py
 ├── interface/
 │   └── tela_principal.py
-├── dinheiro/
-│   ├── servico_saldo.py
-│   └── operacoes_saldo.py
-└── assets/
-	└── fluxograma.png
+└── dinheiro/
+    ├── servico_saldo.py
+    └── operacoes_saldo.py
 ```
 
 ## Como executar
